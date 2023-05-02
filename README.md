@@ -33,5 +33,4 @@ Always trying to Learn New Technologies and Programming Languages, Frameworks
 - MVVM
 - Testing -> Espresso, Mockito
 - Network -> Retrofit, GraphQL
-- Gi -> tGithub, Bitbucket,
 - CI -> Github Actions, CircleCI, Bitrise, Travis, Jenkins
